@@ -1,0 +1,4 @@
+Regression Evaluation Report:
+MAE: 1.59
+RMSE: 3.20
+R² Score: 0.65
